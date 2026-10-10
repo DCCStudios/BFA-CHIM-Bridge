@@ -1,0 +1,5 @@
+{
+    "name": "PlayerVoiceTools",
+    "description": "Provider voice IDs for Cartesia and Inworld, and LLM emotion labels for player speech (used by the CHIM BFA Bridge game plugin).",
+    "version": "1.0.0"
+}

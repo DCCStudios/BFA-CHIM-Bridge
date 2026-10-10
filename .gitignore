@@ -1,0 +1,6 @@
+build/
+Compile/
+extern/
+*.pdb
+*.dll
+.vs/
