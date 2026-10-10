@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+	"name": "chimbfabridge",
+	"version-semver": "1.0.0",
+	"description": "CHIM BFA Bridge SKSE plugin. CommonLibSSE NG is built from source (PluginTemplate/CommonLibVR-ng); these are its dependencies.",
+	"dependencies": [
+		{ "name": "spdlog", "version>=": "1.16.0" },
+		{ "name": "fmt", "version>=": "12.1.0" },
+		{ "name": "rapidcsv", "version>=": "8.90" },
+		{ "name": "directxmath", "version>=": "2025-04-03" },
+		{ "name": "directxtk", "version>=": "2025-10-27" }
+	],
+	"builtin-baseline": "ee12231b20c95013c6638d845d04c91559a1d1ff"
+}
